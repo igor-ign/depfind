@@ -1,13 +1,7 @@
-import './App.css'
+import "./App.css";
 
 function App() {
-  return (
-    <>
-      <p>
-        depfind
-      </p>
-    </>
-  )
+	return <p>depfind</p>;
 }
 
-export default App
+export default App;
